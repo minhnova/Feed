@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D2E5033-C51E-4B93-BAE4-131E31179B45"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C53F9EB-FD04-49A5-8A20-3D5F71BA200E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FeedTests/RemoteFeedLoaderTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "test_load_deliversErrorOnClient()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C53F9EB-FD04-49A5-8A20-3D5F71BA200E - bee2f253548523b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FeedTests.RemoteFeedLoaderTests.test_load_deliversErrorOnClient() -&gt; ()"
+                  moduleName = "FeedTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phaihoang/Documents/lead-ios/Feed/FeedTests/RemoteFeedLoaderTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "0C53F9EB-FD04-49A5-8A20-3D5F71BA200E - bee2f2535485227b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FeedTests.RemoteFeedLoaderTests.test_load_deliversErrorOnClient() -&gt; ()"
+                  moduleName = "FeedTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phaihoang/Documents/lead-ios/Feed/FeedTests/RemoteFeedLoaderTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "688270E3-9241-4B0E-98CD-3BC8634220A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Feed/FeedAPI/RemoteFeedLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "load(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "688270E3-9241-4B0E-98CD-3BC8634220A4 - 74445a237e38e0be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Error) -&gt; () in Feed.RemoteFeedLoader.load(completion: (Feed.RemoteFeedLoader.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "Feed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phaihoang/Documents/lead-ios/Feed/Feed/FeedAPI/RemoteFeedLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "688270E3-9241-4B0E-98CD-3BC8634220A4 - efa909074690d527"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Feed.RemoteFeedLoader.load(completion: (Feed.RemoteFeedLoader.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "Feed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phaihoang/Documents/lead-ios/Feed/Feed/FeedAPI/RemoteFeedLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "688270E3-9241-4B0E-98CD-3BC8634220A4 - 74445a237e38e15f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Error) -&gt; () in Feed.RemoteFeedLoader.load(completion: (Feed.RemoteFeedLoader.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "Feed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/phaihoang/Documents/lead-ios/Feed/Feed/FeedAPI/RemoteFeedLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DD2D2CE-FC23-4B20-B658-AD8AC564C225"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FeedTests/RemoteFeedLoaderTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "complete(with:at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A421507-72A4-496C-BB59-ACD35F916FC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FeedTests/RemoteFeedLoaderTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "get(from:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
